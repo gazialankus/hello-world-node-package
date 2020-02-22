@@ -48,7 +48,7 @@ module.exports = {
 }
 </pre>
 </li>
-<li>Now when you are done with the package implimentation its a time to publish the package... </li>
+<li>Now when you are done with the package implementation its a time to publish the package... </li>
 <li>To publish the package run <pre>npm adduser</pre></li>
 <li>It will prompt to ask your your name, password and your email id, provide the information and hit enter...</li>
 <li>Verify your email address from npm site</li>
